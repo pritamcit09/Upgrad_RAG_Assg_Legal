@@ -1,7 +1,4 @@
-# Upgrad_RAG_Assg_Legal
-# Upgrad assignment for RAG for NLP.
-
-# Legal QnA System – Project Summary:
+# Upgrad Legal QnA System (RAG and NLP) – Project Summary:
 
 A Legal QnA system was developed using Langchain, OpenAI GPT-3.5-turbo, text-embedding-3-small and vector databases (FAISS/QDrant) with a Retrieval-Augmented Generation (RAG) approach. Legal documents were preprocessed, chunked, embedded, and stored for similarity-based retrieval. A custom Langchain chain enabled contextual answering. Evaluation was done using benchmark answers in pandas DataFrames.
 
